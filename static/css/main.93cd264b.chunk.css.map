@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,WAAY,CACZ,WAAY,CACZ,WACF,CAEA,GACE,SACF,CAEA,GACE,eACF","file":"main.93cd264b.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.App__btn {\n  margin: 25px;\n  width: 150px;\n  height: 40px;\n}\n\nul {\n  padding: 0;\n}\n\nli {\n  list-style: none;\n}\n"]}
